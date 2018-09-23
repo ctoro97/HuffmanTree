@@ -1,1 +1,2 @@
 # HuffmanTree
+Using Java, I wrote a program that read in a file, calculated the frequency of each character in the file, placed the characters and frequencies into a table indexed by character, created a Huffman tree from the frequency table, encoded the file in binary, and decoded the string of binary. The only file I worked on was the HuffmanEncoding file which implemented the HuffmanCoding interface.
